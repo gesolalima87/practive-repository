@@ -1,2 +1,2 @@
-# practive-repository
-practive repository
+# practice-repository
+practice repository
